@@ -8,7 +8,7 @@
   "description": "javaScript jabber client library",
   "main": [
     "dist/jsjc.js",
-    "dist/jsjc.min.js",
+    "dist/jsjc.min.js"
   ],
   "keywords": [
     "jabber",
