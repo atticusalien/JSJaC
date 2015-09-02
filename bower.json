@@ -1,0 +1,30 @@
+{
+  "name": "JSJaC",
+  "version": "1.4.0",
+  "homepage": "https://github.com/atticusalien/JSJaC",
+  "authors": [
+    "atticusalien"
+  ],
+  "description": "javaScript jabber client library",
+  "main": [
+    "dist/jsjc.js",
+    "dist/jsjc.min.js",
+  ],
+  "keywords": [
+    "jabber",
+    "xmpp"
+  ],
+  "license": "MPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/atticusalien/JSJaC.git"
+  }
+}
